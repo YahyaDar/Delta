@@ -1,0 +1,7 @@
+# Python Virtual Environment
+.venv/
+
+# IDE Configuration Files
+.idea/
+
+TODO.py
